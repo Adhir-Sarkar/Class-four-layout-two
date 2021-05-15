@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+}
+.header{
+    height: 200px;
+    background-color: blueviolet;
+    text-align: center;
+}
+.header h1{
+    color: white;
+}
+.content{
+overflow: hidden;
+}
+.nav{
+width: 30%;
+background-color: teal;
+text-align: center;
+height: 600px;
+float: left;
+}
+.nav h1{
+    color: white;
+}
+.article{
+width: 50%;
+background-color: yellowgreen;
+text-align: center;
+height: 600px;
+float: left;
+}
+.article h1{
+    color: white;
+}
+.ads{
+    width: 20%;
+    background-color: tomato;
+    text-align: center;
+    height: 600px;
+    float: left;
+}
+.ads h1{
+    color: white;
+}
+.footer{
+    height: 200px;
+   background-color: blueviolet;
+    text-align: center;
+}
+.footer h1{
+    color: white;
+}
